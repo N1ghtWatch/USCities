@@ -11,8 +11,8 @@
   DTS:LocaleID="13321"
   DTS:ObjectName="USCities"
   DTS:PackageType="5"
-  DTS:VersionBuild="33"
-  DTS:VersionGUID="{AD9F8825-7279-4E69-B5D6-9CB449F4E535}">
+  DTS:VersionBuild="34"
+  DTS:VersionGUID="{9E7C24F7-A478-4050-A52E-6FDB24E03321}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
